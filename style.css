@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Asap+Condensed:ital@1&family=Chakra+Petch:ital,wght@1,300&family=Dancing+Script:wght@600&family=Libre+Franklin:ital@1&display=swap');
+body{
+    background-color: yellowgreen;
+}
+div{
+    text-align: center;
+    background-color: rgb(76,231,212);
+    border-radius: 50px;
+}
+h3{
+   color: red;
+   font-weight: 30;
+}
+.about-my-channel-container{
+    margin-top: 20px;
+    background-color: green;
+}
+.recipe{
+    background-color: royalblue;
+    font-weight: 700;
+}
+h2{
+    color: turquoise;
+    font-weight: 700;  
+}
+li{
+    color: rgb(173, 79, 24);
+    text-decoration: none;
+}
+p{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
